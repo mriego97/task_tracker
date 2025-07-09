@@ -30,7 +30,7 @@ Each task is stored as a JSON object with the following properties:
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/your-username/task-tracker.git
+git clone https://github.com/mriego97/task-tracker.git
 ```
 ```bash
 cd task-tracker
