@@ -29,10 +29,12 @@ Each task is stored as a JSON object with the following properties:
 ---
 
 ## 🚀 How to Run
-
+```bash
 git clone https://github.com/your-username/task-tracker.git
+```
+```bash
 cd task-tracker
-
+```
 
 ### 2. Run from the terminal
 
@@ -50,33 +52,24 @@ python task_tracker.py
 6. Exit
 ```
 
-🧪 Example Usage
+## 🧪 Example Usage
 Add a task:
 
-text
-Copiar
-Editar
 Introducing the name of the task: Read Python documentation
 Change task status:
 
-text
-Copiar
-Editar
+
 Enter the id of the task you want to change: 2  
 Enter the status of the task you want to switch to: done
 Filter tasks:
-
-text
-Copiar
-Editar
 Introducing the status of the task you want to see (not done, in progress, done): in progress
-📁 File Structure
+
+## 📁 File Structure
 graphql
-Copiar
-Editar
 task_tracker.py   # Main script file  
 task.json         # Automatically created JSON file to store task data
-⚠️ Constraints
+
+## ⚠️ Constraints
 Uses only the Python standard library (json, os, datetime)
 
 Does not rely on external libraries or frameworks
@@ -85,18 +78,13 @@ Runs entirely in the command line
 
 Handles user input errors and missing data gracefully
 
-📚 Learning Objectives
+## 📚 Learning Objectives
+
 This project helps reinforce:
-
 📂 File handling with the filesystem
-
 🧪 Input validation and error handling
-
 🧾 JSON data manipulation
-
 🖥️ Creating interactive CLI applications
-
 🧱 Writing modular Python code
-
 📝 License
 This project is open-source and available under the MIT License.
