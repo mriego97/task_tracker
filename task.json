@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "description": "Hacer deberes",
+        "status": "not done",
+        "createdAt": "09/07/2025",
+        "updatedAt": ""
+    },
+    {
+        "id": 2,
+        "description": "Estudiar cosas 2",
+        "status": "not done",
+        "createdAt": "09/07/2025",
+        "updatedAt": ""
+    },
+    {
+        "id": 3,
+        "description": "Estudiar cosas 3",
+        "status": "done",
+        "createdAt": "07/07/2025",
+        "updatedAt": "09/07/2025"
+    },
+    {
+        "id": 4,
+        "description": "Estudiar cosas 4",
+        "status": "done",
+        "createdAt": "09/07/2025",
+        "updatedAt": ""
+    },
+    {
+        "id": 5,
+        "description": "ir a comprar",
+        "status": "not done",
+        "createdAt": "09/07/2025",
+        "updatedAt": ""
+    },
+    {
+        "id": 6,
+        "description": "hacer la cama",
+        "status": "not done",
+        "createdAt": "09/07/2025",
+        "updatedAt": ""
+    }
+]
